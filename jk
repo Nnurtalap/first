@@ -1,0 +1,49 @@
+// let login = prompt('your login' ,'');
+// if(login== 'Admin'){
+//    let pass=prompt("password",'');
+//    if(pass == 'Я Главный')
+//    {
+//     alert('welcome');
+//     }
+    
+    
+//     else if(pass === '' || pass === null)
+//         {
+//     alert('no');
+//     }
+//     else
+//     {
+//         alert("another pass")
+//     }}
+//     else if( login === '' || login === null){
+//         alert('von')
+//     }
+//     else{
+//         alert('i dont know you')
+//     }
+// let sum = 0;
+// while(true){
+//     let value = +prompt('number',);
+
+//     if(!value) break;
+//      sum +=value;
+// }
+// alert('number is '+ sum);
+
+// for(let a =2;a<11;a++){
+//     if(a%2==0){
+//         alert(a);
+        
+//     }
+// }
+// let i=0;
+// while (i<3){
+//     i++;
+//     alert( `number ${i}!` );
+
+// }
+// let num;
+
+// do {
+//   num = prompt("Введите число больше 100?", 0);
+// } while (num <= 100 && num);
