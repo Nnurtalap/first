@@ -66,6 +66,12 @@ header{
     padding: 10px 0;
     
 }
+.dark{
+    width: 100px;
+    height: 100px;
+    background:black;
+    margin: 20px;
+} 
 .menu .submenu li{
     padding: 5px;
 }
